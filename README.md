@@ -1,8 +1,7 @@
 # frontend
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://clear-scallop-3be.notion.site/Connection-bee987c2643d4c72a62e626819cd880c)
-
-<br/><br/>
+<br/>
 
 ### 사용 스택
 
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Emotion-FF69B4?style=for-the-badge&logo=emotion&logoColor=white">
-
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/ESlint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
